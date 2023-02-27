@@ -1,3 +1,5 @@
+
+//using mailosaur
 const serverID = 'y7cffopc'
 const testemail = 'today-carryf@y7cffopc.mailosaur.net'
 describe('template spec', () => {
